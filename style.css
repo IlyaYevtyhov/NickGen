@@ -1,0 +1,15 @@
+a {
+  text-decoration: none;
+}
+div{
+margin-top: 2px;
+text-align: center;
+}
+.container{
+width: auto;
+}
+#footer {
+margin-top: 4px;
+background: #31353a;
+height: 200px;
+}
